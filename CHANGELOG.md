@@ -1,5 +1,16 @@
 # Changelog
 
+### [1.101.2](https://www.github.com/googleapis/java-logging/compare/v1.101.1...v1.101.2) (2020-05-13)
+
+
+### Dependencies
+
+* update dependency com.google.api.grpc:proto-google-common-protos to v1.18.0 ([#156](https://www.github.com/googleapis/java-logging/issues/156)) ([84a6ccd](https://www.github.com/googleapis/java-logging/commit/84a6ccde0cf01fc0d7c331300abadfcf4e004b7a))
+* update dependency com.google.guava:guava-bom to v29 ([#136](https://www.github.com/googleapis/java-logging/issues/136)) ([8c261a0](https://www.github.com/googleapis/java-logging/commit/8c261a0d3386bf3867fda7cc0eac2e6821639359))
+* update dependency com.google.http-client:google-http-client-bom to v1.35.0 ([#153](https://www.github.com/googleapis/java-logging/issues/153)) ([181447a](https://www.github.com/googleapis/java-logging/commit/181447a6b33ed34de16926da008e789ac5570043))
+* update dependency io.grpc:grpc-bom to v1.29.0 ([#149](https://www.github.com/googleapis/java-logging/issues/149)) ([5841918](https://www.github.com/googleapis/java-logging/commit/5841918619873f500efe000d60bd8d3c5f5ab0d8))
+* update dependency org.threeten:threetenbp to v1.4.4 ([#151](https://www.github.com/googleapis/java-logging/issues/151)) ([abeac81](https://www.github.com/googleapis/java-logging/commit/abeac81a3117eb42ec3bfa9bfa1b934a303bc90e))
+
 ### [1.101.1](https://www.github.com/googleapis/java-logging/compare/v1.101.0...v1.101.1) (2020-04-07)
 
 
